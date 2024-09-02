@@ -1,0 +1,10 @@
+{
+    "urls": [
+      ["qubit/__init__.py", "github:shuhul/micro-bloch/main/qubit/__init__.py"],
+      ["qubit/file1.py", "github:shuhul/micro-bloch/main/qubit/file1.py"],
+      ["qubit/file2.py", "github:shuhul/micro-bloch/main/qubit/file2.py"]
+    ],
+    "deps": [
+    ],
+    "version": "1.0"
+  }
