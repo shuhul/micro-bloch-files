@@ -1,8 +1,8 @@
 {
     "urls": [
-      ["qubit/__init__.py", "github:shuhul/micro-bloch/qubit/__init__.py"],
-      ["qubit/file1.py", "github:shuhul/micro-bloch/qubit/file1.py"],
-      ["qubit/file2.py", "github:shuhul/micro-bloch/qubit/file2.py"]
+      ["qubit/__init__.py", "github:shuhul/micro-bloch-files/qubit/__init__.py"],
+      ["qubit/file1.py", "github:shuhul/micro-bloch-files/qubit/file1.py"],
+      ["qubit/file2.py", "github:shuhul/micro-bloch-files/qubit/file2.py"]
     ],
     "deps": [
     ],
